@@ -5,9 +5,16 @@ this is just a simple stylesheet providing a class for hover effect
 
 # How to use
 Just download the `hover_underline.css` file and either
-* import it inside the html document: ```html <link rel="stylesheet" href="hover_underline.css">```
+* import it inside the html document:
+```html
+ <link rel="stylesheet" href="hover_underline.css">
+```
 OR
-* in some css stylesheet file : ```css @import url(hover_underline.css);```
+* in some css stylesheet file:
+```css
+ @import url(hover_underline.css);
+```
+
 You just need to assign a HTML element the `hover-underline` class:
 ```html
 <h1 class="hover-underline">Lorem ipsum dolor sit amet consectetur</h1>
