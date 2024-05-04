@@ -1,23 +1,22 @@
 # About
 this is just a simple stylesheet providing a class for hover effect
 # Preview
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://download1073.mediafire.com/05b1ixmq0nyg-BXJ93pn7-9jAb9SeAowcuZRlEBYYxII_SqA_2MVUCpQiPly4b9aV9JI_bfBwe4j5nmK7f71RMD2VJ6Vb179BVcMY9IcaBIxkFC3IXVWjVqWMkBTEfmsw6nFXL_mtlHycbKX5Fcp02qBosJLcnfKOCVYByXpdb4/9okrfiloym3izij/preview.gif))
-### Heading 3
+![preview](https://github.com/ihaswn/css-animated-hover-underline/assets/20137018/d78c67eb-a9ab-49d3-9e4b-77a8f219d01a)
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+# How to use
+You just need to assign a HTML element the `hover-underline` class:
+```html
+<h1 class="hover-underline">Lorem ipsum dolor sit amet consectetur</h1>
+```
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+# Settings
+There is a few settings that you can assign to elements beside the `hover-underline` class:
+--ahu-transition-interval (default: 350ms)
+--ahu-thickness (default: 3px)
+--ahu-color (default: white)
 
-Combined emphasis with **asterisks and _underscores_**.
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+usage example:
 
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+```html
+<h1 class="hover-underline" style="--ahu-thickness: 5px; --ahu-thickness: 5px; --ahu-transition-interval: 0.5s; --ahu-color: red;">Lorem ipsum dolor sit amet consectetur</h1>
+```
