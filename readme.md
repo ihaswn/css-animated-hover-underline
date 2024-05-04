@@ -9,8 +9,7 @@ Just download the `hover_underline.css` file and either
 ```html
  <link rel="stylesheet" href="hover_underline.css">
 ```
-OR
-* in some css stylesheet file:
+* *or* in some css stylesheet file:
 ```css
  @import url(hover_underline.css);
 ```
