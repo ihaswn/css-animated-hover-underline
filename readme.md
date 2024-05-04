@@ -11,9 +11,9 @@ You just need to assign a HTML element the `hover-underline` class:
 
 # Settings
 * There is a few settings that you can assign to elements as css variables:
-  * --ahu-transition-interval (default: 350ms)
-  * --ahu-thickness (default: 3px)
-  * --ahu-color (default: white)
+  * `--ahu-transition-interval` (default: 350ms)
+  * `--ahu-thickness` (default: 3px)
+  * `--ahu-color` (default: white)
 
 usage example:
 
