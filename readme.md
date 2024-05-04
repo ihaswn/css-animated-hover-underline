@@ -1,5 +1,7 @@
-# Heading 1
-## Heading 2
+# About
+this is just a simple stylesheet providing a class for hover effect
+# Preview
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://download1073.mediafire.com/05b1ixmq0nyg-BXJ93pn7-9jAb9SeAowcuZRlEBYYxII_SqA_2MVUCpQiPly4b9aV9JI_bfBwe4j5nmK7f71RMD2VJ6Vb179BVcMY9IcaBIxkFC3IXVWjVqWMkBTEfmsw6nFXL_mtlHycbKX5Fcp02qBosJLcnfKOCVYByXpdb4/9okrfiloym3izij/preview.gif))
 ### Heading 3
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
